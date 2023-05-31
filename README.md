@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+https://github.com/hritvikgupta/shopping-cart/assets/60143996/202b8dba-7a46-4918-a508-3f203aff5d4c
+
+
 ## Available Scripts
 
 In the project directory, you can run:
