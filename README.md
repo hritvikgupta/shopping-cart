@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Follow the link to the website https://scartreactjs.netlify.app/
 
 https://github.com/hritvikgupta/shopping-cart/assets/60143996/202b8dba-7a46-4918-a508-3f203aff5d4c
 
